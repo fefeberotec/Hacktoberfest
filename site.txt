@@ -1,0 +1,2 @@
+A criação de um site com todas as informações relevantes dos representantes politicos de cada Estado do Brasil.
+informações como : Projetos apresentados, votações, pautas mais tocadas e etc.

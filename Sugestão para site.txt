@@ -1,0 +1,1 @@
+Uma boa plataforma para criação do site do projeto é o Wordpress, de fácil modelagem e deixa a aplicação com um tom profissional 
